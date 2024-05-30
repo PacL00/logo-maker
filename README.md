@@ -1,4 +1,4 @@
-# Logo Generator
+# Logo Maker
   ![Github license](https://img.shields.io/badge/license--blue.svg)
   ## Table of contents
   * [installation](#installation)
